@@ -16,10 +16,10 @@ Dependencies :
 #### Steps	
  - Create EC2 instance
  - [ i ] Install nvm
-	 - `\> wget -qO- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh) | bash`
+	 - `wget -qO- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh) | bash`
 	 - [ i ] open terminal and verify
-		 - `\> command -v nvm`
-		 - or `\> nvm --help`
+		 - `command -v nvm`
+		 - or `nvm --help`
  - [ i ] Install git
 	 - `sudo apt-get install git`
  - [ i ] Install node
