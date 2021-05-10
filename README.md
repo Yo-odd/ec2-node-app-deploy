@@ -60,7 +60,7 @@ Dependencies :
 	 - `sudo apt install nginx`
 	 - `sudo service nginx status`
 	 - `sudo nano /etc/nginx/sites-available/default`  (press `alt+shift+#` to see line numbers)
-	 - sudo service nginx restart
+	 - `sudo service nginx restart`
 
 
 nginx config file
